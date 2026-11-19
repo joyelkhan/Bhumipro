@@ -1,0 +1,6 @@
+{
+  "name": "BhumiPro",
+  "description": "মৌজা ম্যাপে জমির পরিমাণ — ডিজিটাল সার্ভে, প্লট বিভাজন ও সার্ভে প্যাড PDF রিপোর্ট (NaserX Labs)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
